@@ -36,7 +36,7 @@ target: has the client subscribed a term deposit?
 METHODOLOGY :
 -------------
 As a part of the machine larning exercise, several activities are perfomed to identify potential customers. Some of those are 
-a. Importing data
+a. Importing data  
 b. Data preparation and transformation.  
 c. Spliting dataset into training and test sets  
 d. Model building and evalution
