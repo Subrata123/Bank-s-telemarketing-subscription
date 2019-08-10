@@ -15,24 +15,28 @@ The data has 17 customer attaibutes for 45211 customers. The data has customer's
 
 ATTRIBUTE INFORMATION :
 -----------------------
-age : Age of the customer
-job : type of job
-marital : marital status
-education : Education level of the customer
-default: has credit in default?
-balance: average yearly balance
-housing: has housing loan?
-loan: has personal loan?
-contact: contact communication type
-day: last contact day of the month
-month: last contact month of year
-duration : last contact duration, in seconds
-campaign: number of contacts performed during this campaign
-pdays : number of days that passed by after the client was last contacted
-previous: number of contacts performed before this campaign
-poutcome : outcome of the previous marketing campaign
-target: has the client subscribed a term deposit?
+age : Age of the customer  
+job : type of job  
+marital : marital status  
+education : Education level of the customer  
+default: has credit in default?  
+balance: average yearly balance  
+housing: has housing loan?  
+loan: has personal loan?  
+contact: contact communication type  
+day: last contact day of the month  
+month: last contact month of year  
+duration : last contact duration, in seconds  
+campaign: number of contacts performed during this campaign  
+pdays : number of days that passed by after the client was last contacted  
+previous: number of contacts performed before this campaign  
+poutcome : outcome of the previous marketing campaign  
+target: has the client subscribed a term deposit?  
 
 METHODOLOGY :
 -------------
-As a part of the machine larning exercise, several activities are perfomed to identify potential customers. Some of those are a. Importing data b. Data preparation and transformation. c. Spliting dataset into training and test sets. d. Model building and evalution
+As a part of the machine larning exercise, several activities are perfomed to identify potential customers. Some of those are --
+a. Importing data
+b. Data preparation and transformation.  
+c. Spliting dataset into training and test sets  
+d. Model building and evalution
